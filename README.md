@@ -1,3 +1,3 @@
 # Python Projects
-<h1>Technologies Used</h1>
+<h5>Technologies Used</h5>
 <p>Jupyter notebook</p>
